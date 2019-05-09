@@ -20,6 +20,14 @@ Site: http://twinsphotography.net/index.php/projects/8-bit/
 Libraries:
  - WiringPi http://wiringpi.com/
 
+### Installing
+
+This file runs best under /home/pi/py/rom/
+
+You may have to change the permissions.
+
+The pinout can be read from the code.
+
 ### Wiring Diagram
 
 (todo)
@@ -29,6 +37,7 @@ This is the list of future changes:
 
  - [ ] Complete Documentation
  - [ ] Clean Up code
+ - [ ] Wiring Diagram
 
 
 ## Authors
